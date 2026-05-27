@@ -17,7 +17,7 @@ If the emulator doesn't boot after 5 minutes, check the log in Cell 14. The most
 ### Full setup
 
 ```bash
-git clone https://github.com/demo-x-hexa/legion-mobile-sandbox.git
+git clone https://github.com/deathlegionteamlk/legion-mobile-sandbox.git
 cd legion-mobile-sandbox
 bash scripts/setup.sh
 ```
